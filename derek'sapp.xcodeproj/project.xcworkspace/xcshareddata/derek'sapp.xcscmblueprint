@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2D15EAD2CBA1A24B07F4A3164AB654659EBA5145",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "587CF54637FF591D0B9D3D518BFDE7ABB0279A17" : 9223372036854775807,
+    "2D15EAD2CBA1A24B07F4A3164AB654659EBA5145" : 9223372036854775807,
+    "42EADEB439FD292D4248692308E500D4B568E4C2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD108BEA-1F68-4110-90CB-BD79A9F746EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "587CF54637FF591D0B9D3D518BFDE7ABB0279A17" : "dereks-app-master\/",
+    "2D15EAD2CBA1A24B07F4A3164AB654659EBA5145" : "FireSquirrel4000\/",
+    "42EADEB439FD292D4248692308E500D4B568E4C2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "derek'sapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "derek'sapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DerekXA\/FireSquirrel4000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D15EAD2CBA1A24B07F4A3164AB654659EBA5145"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DerekXA\/Derekapp2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42EADEB439FD292D4248692308E500D4B568E4C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DerekXA\/Derekapp2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "587CF54637FF591D0B9D3D518BFDE7ABB0279A17"
+    }
+  ]
+}
